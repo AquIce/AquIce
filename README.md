@@ -1,11 +1,11 @@
 ### Me :
 Hey, I'm Timeo.<br>
 I study computer science.<br>
-I love coding, learning new things and solve problems 🔥<br><br>
+I love coding, learning new things and solving problems 🔥<br><br>
 
 ### Interested in :
 - AI
-- High and low-level programming languages
+- All programming languages
 - Web and software
 - Learn new things
 - Having fun 😉
@@ -15,15 +15,16 @@ I love coding, learning new things and solve problems 🔥<br><br>
 ### Actually learning :
 - Machine learning
 - Python (advanced)
-- Elixir
+- C++
 - Assembly Language
+- Discord JS
 
 *** 
 
 ### Soon :
-- C++
-- Discord JS
+- Pug
 - Sass
+- Elixir
 
 ***
 
