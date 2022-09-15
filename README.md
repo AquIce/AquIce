@@ -14,10 +14,8 @@ I love coding, learning new things and solving problems 🔥<br><br>
 
 ### Actually learning :
 - Machine learning
-- Python (advanced)
-- C++
 - Assembly Language
-- Discord JS
+- Compiler creation
 
 *** 
 
