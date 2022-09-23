@@ -3,45 +3,56 @@ Hey, I'm Timeo.<br>
 I study computer science.<br>
 I love coding, learning new things and solving problems 🔥<br><br>
 
-### Interested in :
-- AI
-- All programming languages
-- Web and software
-- Learn new things
-- Having fun 😉
+<details>
+  <summary><h2>About Me</h2></summary>
+  <h3>Interests</h3>
+  <ul>
+    <li>Programming languages</li>
+    <li>AI</li>
+    <li>Web and Software</li>
+    <li>Learn new things</li>
+    <li>Having fun</li>
+  </ul>
+  <br>
+  <h3>What I am learning</h3>
+  <ul>
+    <li>Machine learning</li>
+    <li>Assembly Language</li>
+    <li>Compiler Creation</li>
+  </ul>
+  <br>
+  <h3>What I want to learn</h3>
+  <ul>
+    <li>Elixir</li>
+    <li>Pug</li>
+    <li>SASS</li>
+  </ul>
+</details>
+<details>
+  <summary><h2>My Stats<h2></summary>
+  <h3>Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=liltim0&show_icons=true&theme=midnight-purple">
+  <h3>Streak Counter</h3>
+  <img src="https://streak-stats.demolab.com/?user=LilTim0&theme=midnight-purple&border_radius=3&hideborders=true">
+  <h3>Top Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liltim0&theme=midnight-purple">
+</details>
 
-***
-
-### Actually learning :
-- Machine learning
-- Assembly Language
-- Compiler creation
-
-*** 
-
-### Soon :
-- Pug
-- Sass
-- Elixir
-
-***
-
-### [My Skills](https://github.com/LilTim0/LilTim0/blob/main/Skills.md)
-
-***
-
-### My Stats
-![Lil_Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liltim0&theme=onedark&show_icons=true)
-<br><br>
-[![GitHub Streak Counter](http://github-readme-streak-stats.herokuapp.com?user=liltim0&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-*** 
-### Some Languages I Use :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liltim0&layout=compact&theme=onedark)](https://github.com/liltim0/github-readme-stats)
-
-***
-
-### [Projects](https://github.com/LilTim0/LilTim0/blob/main/Projects.md)
+<details>
+  <summary><h2>My Projects<h2></summary>
+  <p>Here is a list of my most interesting projects :</p>
+  <p>Enjoy !</p>
+  <div align="center">
+    <h3>The Y Programming Language</h3>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=the-y-programming-language&repo=y&show_owner=true&theme=midnight-purple">
+    <h3>Ice_9</h3>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=liltim0&repo=Ice_9&show_owner=true&theme=midnight-purple">
+    <h3>EezPass</h3>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=liltim0&repo=EezPass&show_owner=true&theme=midnight-purple">
+    <h3>EezCMD</h3>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=liltim0&repo=EezCMD&show_owner=true&theme=midnight-purple">
+  </div>
+</details>
 
 ***
 
