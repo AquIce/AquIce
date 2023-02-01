@@ -30,11 +30,11 @@ Hello, my name is <strong>Timeo Perrinjaquet</strong>, I'm an <strong>IT student
 <details>
   <summary><h2>My Stats<h2></summary>
   <h3>Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=liltim0&show_icons=true&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinistericy&show_icons=true&theme=midnight-purple">
   <h3>Streak Counter</h3>
-  <img src="https://streak-stats.demolab.com/?user=LilTim0&theme=midnight-purple&border_radius=3&hideborders=true">
+  <img src="https://streak-stats.demolab.com/?user=sinistericy&theme=midnight-purple&border_radius=3&hideborders=true">
   <h3>Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liltim0&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinistericy&theme=midnight-purple">
 </details>
 
 <details>
@@ -45,11 +45,11 @@ Hello, my name is <strong>Timeo Perrinjaquet</strong>, I'm an <strong>IT student
     <h3>The Y Programming Language</h3>
     <a href="https://github.com/the-ylang/y"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-ylang&repo=y&show_owner=true&theme=midnight-purple"></a>
     <h3>IceLangs</h3>
-    <a href="https://github.com/LilTim0/IceLangs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=liltim0&repo=IceLangs&show_owner=true&theme=midnight-purple"></a>
+    <a href="https://github.com/sinistericy/IceLangs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sinistericy&repo=IceLangs&show_owner=true&theme=midnight-purple"></a>
     <h3>Ice_9</h3>
-    <a href="https://github.com/LilTim0/Ice_9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=liltim0&repo=Ice_9&show_owner=true&theme=midnight-purple"></a>
+    <a href="https://github.com/sinistericy/Ice_9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sinistericy&repo=Ice_9&show_owner=true&theme=midnight-purple"></a>
     <h3>EezPass</h3>
-    <a href="https://github.com/LilTim0/EezPass"><img src="https://github-readme-stats.vercel.app/api/pin/?username=liltim0&repo=EezPass&show_owner=true&theme=midnight-purple"></a>
+    <a href="https://github.com/sinistericy/EezPass"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sinistericy&repo=EezPass&show_owner=true&theme=midnight-purple"></a>
   </div>
 </details>
 
