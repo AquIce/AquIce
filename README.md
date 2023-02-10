@@ -42,12 +42,12 @@ Hello, my name is <strong>Timeo Perrinjaquet</strong>, I'm an <strong>IT student
   <p>Here is a list of my most interesting projects :</p>
   <p>Enjoy !</p>
   <div align="center">
+    <h3>PCE Engine</h3>
+    <a href="https://github.com/PCE-Engine/PCE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pce-engine&repo=pce&show_owner=true&theme=midnight-purple"></a>
     <h3>The Y Programming Language</h3>
     <a href="https://github.com/the-ylang/y"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-ylang&repo=y&show_owner=true&theme=midnight-purple"></a>
     <h3>IceLangs</h3>
     <a href="https://github.com/sinistericy/IceLangs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sinistericy&repo=IceLangs&show_owner=true&theme=midnight-purple"></a>
-    <h3>Ice_9</h3>
-    <a href="https://github.com/sinistericy/Ice_9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sinistericy&repo=Ice_9&show_owner=true&theme=midnight-purple"></a>
     <h3>EezPass</h3>
     <a href="https://github.com/sinistericy/EezPass"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sinistericy&repo=EezPass&show_owner=true&theme=midnight-purple"></a>
   </div>
